@@ -1,0 +1,28 @@
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+### Gradle template
+
+# Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
+!gradle-wrapper.jar
+
+# # Work around https://youtrack.jetbrains.com/issue/IDEA-116898
+# gradle/wrapper/gradle-wrapper.properties
+### Android template
+
+# Gradle files
+build/
+
+# Intellij
+.idea/gradle.xml
+.idea/dictionaries
+
+# External native build folder generated in Android Studio 2.2 and later
+
+# Freeline
+### Java template
+
+# Package Files #
+*.jar
